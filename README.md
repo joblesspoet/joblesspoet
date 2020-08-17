@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [Twitter][twitter] [LinkedIn][linkedin]
 - ⚡ Fun fact: I love to travel and enjoy natural beauty.
 
 ### Connect with me:
