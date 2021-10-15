@@ -5,7 +5,7 @@
 
 ## I'm a Tech Lead Developer, and Mentor!
 
-- 🔭 I’m currently working on small projects for reactjs developers..
+- 🔭 I’m currently working on React, ReactNative application right now..
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
