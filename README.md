@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on React, ReactNative application right now..
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Learn new tech stack(AI, ML, adopt new methodologies.
 - 💬 Ask me about ...
 - 📫 How to reach me: [Twitter][twitter] [LinkedIn][linkedin]
 - ⚡ Fun fact: I love to travel and enjoy natural beauty.
