@@ -22,7 +22,7 @@
 <br />
 
 ### Languages and Tools:
-
+ReactJs, ReactNative, TypeScript, NodeJS, Express, PHP, Laravel, Python, MySQL, MongoDB, Firebase, SonarCloud, Prisma, NextJS, Ionic, Angular, ElectronJS
 
 <br />
 <br />
