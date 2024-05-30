@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sanglavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanglavi&screen_name=sanglavi)
 
-## I'm a Tech Lead Developer, and Mentor!
+## I'm a Tech Lead, Mentor and (Neo4j Certificated Processional)!
 
 - 🔭 I’m currently working on Blockchain(Web3),React, ReactNative application right now..
 - 🌱 I’m currently learning everything (Blockchain solidity)
