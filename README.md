@@ -5,10 +5,10 @@
 
 ## I'm a Tech Lead Developer, and Mentor!
 
-- 🔭 I’m currently working on React, ReactNative application right now..
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on Blockchain(Web3),React, ReactNative application right now..
+- 🌱 I’m currently learning everything (Blockchain solidity)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn new tech stack(AI, ML, adopt new methodologies.
+- 🥅 2024 Goals: Learn new tech stack(Blockchain, AI, ML, adopt new methodologies.
 - 💬 Ask me about ...
 - 📫 How to reach me: [Twitter][twitter] [LinkedIn][linkedin]
 - ⚡ Fun fact: I love to travel and enjoy natural beauty.
@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 ReactJs, ReactNative, TypeScript, NodeJS, Express, PHP, Laravel, Python, MySQL, MongoDB, Firebase, SonarCloud, Prisma, NextJS, Ionic, Angular, ElectronJS
-
+Blockchain, Web3.js
 <br />
 <br />
 
