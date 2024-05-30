@@ -5,6 +5,7 @@
 
 ## I'm a Tech Lead, Mentor and (Neo4j Certificated Processional)!
 
+-    I'm Neo4j [Certified Professional](https://graphacademy.neo4j.com/c/dbd0ad28-d51d-484a-be61-16c01498ce73/).
 - 🔭 I’m currently working on Blockchain(Web3),React, ReactNative application right now..
 - 🌱 I’m currently learning everything (Blockchain solidity)
 - 👯 I’m looking to collaborate with other content creators
